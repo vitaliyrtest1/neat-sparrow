@@ -27,7 +27,7 @@ sections:
         url: /signup
         style: primary
       - label: View Demo
-        url: '#'
+        url: 'http://salen.dev'
         style: secondary
   - section_id: call-to-action
     type: section_cta
